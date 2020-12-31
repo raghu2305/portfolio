@@ -1,0 +1,62 @@
+/*----------------  Navbar  -----------------*/
+
+.navbar{
+    background-color: black;
+}
+
+.navbar img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.link{
+    color: white;
+    margin-right: 20px; 
+}
+
+.link:hover{
+    color: gray;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.name{
+    margin-left: 20px;
+    color: white;
+    font-size: 200%;
+}
+
+/*----------------  Page Content  -----------------*/
+
+.title{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 70px;
+}
+
+.col-2{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.row-1{
+    flex-basis: 50%;
+}
+
+.row-1 img{
+    border-radius: 50%;
+}
+
+.row-2{
+    flex-basis: 50%;
+}
+/*----------------  Footer  -----------------*/
+.footer{
+    background-color: black;
+}
+
+.connect{
+    color: white;
+}
